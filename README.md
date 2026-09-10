@@ -116,6 +116,21 @@ Für die eigentliche Trainingsanwendung ist keine Installation erforderlich.
 
 ---
 
+## Für wen ist Fokusfeld gedacht?
+
+Fokusfeld richtet sich an Menschen, die ihre visuelle Exploration und
+Blicksteuerung trainieren möchten, beispielsweise bei Einschränkungen des
+Gesichtsfeldes.
+
+Solche Einschränkungen können unter anderem im Rahmen neurologischer
+Erkrankungen oder nach einem Schlaganfall auftreten.
+
+Die Anwendung kann ergänzend zu professionell angeleitetem Training
+verwendet werden, ersetzt jedoch keine medizinische oder therapeutische
+Behandlung.
+
+---
+
 ## Medizinischer Hinweis
 
 Fokusfeld wurde **nicht klinisch validiert** und ist **kein Medizinprodukt**.
