@@ -158,7 +158,7 @@ Der Einsatz KI-gestützter Entwicklungswerkzeuge stellt keine medizinische oder 
 
 ## Projektstatus
 
-Fokusfeld ist ein privates, experimentelles Open-Development-Projekt.
+Fokusfeld ist ein frei verfügbares Open-Source-Projekt in aktiver Entwicklung.
 
 Fehler, unvollständige Funktionen oder ungeeignete Trainingsparameter können trotz sorgfältiger Entwicklung nicht ausgeschlossen werden.
 
