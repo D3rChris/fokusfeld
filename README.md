@@ -1,6 +1,7 @@
 # Fokusfeld
 
 **Browserbasiertes Training bei Gesichtsfeldausfällen – visuelle Exploration, Sakkaden- und Blicktraining**
+### ➜ [Fokusfeld direkt im Browser starten](https://d3rchris.github.io/fokusfeld/)
 
 Fokusfeld ist eine kostenlose, browserbasierte Trainingsanwendung für Menschen mit Einschränkungen des Gesichtsfeldes. Die Anwendung stellt verschiedene Übungen zur Verfügung, mit denen unter anderem visuelle Exploration, Blicksteuerung, Sakkaden und Hand-Auge-Koordination trainiert werden können.
 
